@@ -1,1 +1,1 @@
-current working directory
+Write a script that creates an empty file called hello
