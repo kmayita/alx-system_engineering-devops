@@ -1,1 +1,1 @@
-Write a script that creates an empty file called hello
+Tasks 0. Where am I?
